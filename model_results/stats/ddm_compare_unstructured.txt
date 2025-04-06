@@ -1,0 +1,11 @@
+\begin{tabular}{lrrrr}
+\toprule
+ & rank & elpd_loo & p_loo & weight \\
+\midrule
+ddm_nt_zblock_ablock & 0 & -2810.24 & 157.96 & 0.95 \\
+ddm_ntblock_zblock_ablock & 1 & -2811.99 & 159.81 & 0.00 \\
+ddm_model_nt_ablock & 2 & -2816.23 & 156.42 & 0.00 \\
+ddm_nt & 3 & -2870.71 & 147.43 & 0.05 \\
+ddm_ablock & 4 & -3747.71 & 108.54 & 0.01 \\
+\bottomrule
+\end{tabular}

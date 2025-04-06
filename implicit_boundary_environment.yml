@@ -1,0 +1,27 @@
+name: eb_memory
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - pymc
+  - numpy==1.25.2
+  - pandas
+  - seaborn
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - cuda
+  - graphviz
+  - numpyro
+  - blackjax
+  - nutpie
+  - ca-certificates
+  - certifi
+  - openssl
+  - numba
+  - mathjax
+  - bambi
+  - xarray
+  - networkx=3.3
+  - pylatexenc
+prefix: /work/tsavalia_umass_edu/.conda/envs/eb_music

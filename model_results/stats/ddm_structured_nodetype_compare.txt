@@ -1,0 +1,7 @@
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+ & mean & sd & hdi_2.5% & hdi_97.5% & mcse_mean & mcse_sd & ess_bulk & ess_tail & r_hat \\
+\midrule
+v_C(node_type) & 0.15 & 0.08 & -0.01 & 0.31 & 0.00 & 0.00 & 3740.00 & 3455.00 & 1.00 \\
+\bottomrule
+\end{tabular}
