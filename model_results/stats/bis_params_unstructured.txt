@@ -1,0 +1,7 @@
+\begin{tabular}{lrrrr}
+\toprule
+ & mean & sd & hdi_2.5% & hdi_97.5% \\
+\midrule
+node_type:block & -0.04 & 0.04 & -0.12 & 0.04 \\
+\bottomrule
+\end{tabular}
