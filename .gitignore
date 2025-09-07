@@ -1,2 +1,4 @@
 model_results/bootstrap
 model_results/posteriors
+slurm_logs/
+model_results/indiv-subs
